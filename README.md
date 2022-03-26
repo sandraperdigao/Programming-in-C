@@ -1,2 +1,2 @@
-# Programacao
-C Trabalho da Licenciatura de Engenharia Informática na disciplina de Programação 2019-2020
+# Programming in C
+Work as a student of the Bachelor's Degree in Computer Science 2019-2020
